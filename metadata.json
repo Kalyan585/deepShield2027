@@ -1,0 +1,6 @@
+{
+  "name": "DeepShield AI - Fake Image & Deepfake Video Detection",
+  "description": "AI-Based Fake Image and Deepfake Video Detection System utilizing multi-layer computer vision, CNN/EfficientNet analysis, and temporal-spatial video heuristics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
